@@ -57,7 +57,7 @@
   <SubComponents>
     <Component class="javax.swing.JButton" name="jButton1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="M&#xe9;todo de los centros cuadrados"/>
+        <Property name="text" type="java.lang.String" value="M&#xe9;todo de los centro cuadrados"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="jButton2">
