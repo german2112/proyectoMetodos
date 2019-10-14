@@ -40,6 +40,7 @@ public class randomForm extends javax.swing.JFrame {
         nTextField = new javax.swing.JTextField();
         variableN = new javax.swing.JLabel();
 <<<<<<< HEAD
+<<<<<<< HEAD
         calcularMcc = new javax.swing.JButton();
 
         jLabel2.setText("hola");
@@ -83,6 +84,8 @@ public class randomForm extends javax.swing.JFrame {
         );
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -122,6 +125,7 @@ public class randomForm extends javax.swing.JFrame {
         variableN.setVisible(false);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         calcularMcc.setText("Calcular mcc");
         calcularMcc.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -129,6 +133,8 @@ public class randomForm extends javax.swing.JFrame {
             }
         });
 
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -143,6 +149,7 @@ public class randomForm extends javax.swing.JFrame {
                     .addComponent(jButton4)
                     .addComponent(jButton3)
                     .addComponent(jButton1))
+<<<<<<< HEAD
 <<<<<<< HEAD
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 63, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -162,6 +169,8 @@ public class randomForm extends javax.swing.JFrame {
                             .addComponent(semilla)
                             .addContainerGap()))))
 =======
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 100, Short.MAX_VALUE)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
                     .addComponent(variableN)
@@ -169,6 +178,9 @@ public class randomForm extends javax.swing.JFrame {
                     .addComponent(semillaTextField)
                     .addComponent(nTextField))
                 .addGap(64, 64, 64))
+<<<<<<< HEAD
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
+=======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
         );
         layout.setVerticalGroup(
@@ -178,18 +190,24 @@ public class randomForm extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addGap(34, 34, 34)
 <<<<<<< HEAD
+<<<<<<< HEAD
                         .addComponent(jButton1))
                     .addGroup(layout.createSequentialGroup()
                         .addGap(59, 59, 59)
                         .addComponent(semilla)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
 =======
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
                         .addComponent(jButton1)
                         .addGap(18, 18, 18))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(semilla)
                         .addGap(6, 6, 6)))
+<<<<<<< HEAD
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
+=======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jButton2)
@@ -232,7 +250,10 @@ public class randomForm extends javax.swing.JFrame {
         variableN.setVisible(true);
         nTextField.setVisible(true);
 <<<<<<< HEAD
+<<<<<<< HEAD
         calcularMcc.setVisible(true);
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
     }//GEN-LAST:event_jButton1ActionPerformed
@@ -242,12 +263,15 @@ public class randomForm extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
 <<<<<<< HEAD
+<<<<<<< HEAD
     private void calcularMccActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_calcularMccActionPerformed
         String semillaValor = semillaTextField.getText();
         String numerosAleatorios = nTextField.getText();
         mcc.centrosCuadradosRandom(semillaValor, numerosAleatorios);
     }//GEN-LAST:event_calcularMccActionPerformed
 
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
     /**
@@ -293,9 +317,12 @@ public class randomForm extends javax.swing.JFrame {
     private javax.swing.JButton jButton4;
     private javax.swing.JButton jButton5;
 <<<<<<< HEAD
+<<<<<<< HEAD
     private javax.swing.JFrame jFrame1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JPanel jPanel1;
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
     private javax.swing.JTextField nTextField;

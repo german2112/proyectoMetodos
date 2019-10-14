@@ -96,6 +96,7 @@
                   <Component id="jButton1" min="-2" max="-2" attributes="0"/>
               </Group>
 <<<<<<< HEAD
+<<<<<<< HEAD
               <EmptySpace pref="63" max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" attributes="0">
@@ -121,6 +122,8 @@
                   </Group>
               </Group>
 =======
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
               <EmptySpace pref="100" max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                   <Component id="variableN" min="-2" max="-2" attributes="0"/>
@@ -129,6 +132,9 @@
                   <Component id="nTextField" alignment="0" max="32767" attributes="0"/>
               </Group>
               <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+<<<<<<< HEAD
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
+=======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
           </Group>
       </Group>
@@ -141,6 +147,7 @@
                       <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
                       <Component id="jButton1" min="-2" max="-2" attributes="0"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="59" max="-2" attributes="0"/>
@@ -149,6 +156,8 @@
               </Group>
               <EmptySpace max="-2" attributes="0"/>
 =======
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                   </Group>
                   <Group type="102" alignment="1" attributes="0">
@@ -157,6 +166,9 @@
                       <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
                   </Group>
               </Group>
+<<<<<<< HEAD
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
+=======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
               <Group type="103" groupAlignment="3" attributes="0">
                   <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -244,6 +256,7 @@
       </AuxValues>
     </Component>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Component class="javax.swing.JButton" name="calcularMcc">
       <Properties>
         <Property name="text" type="java.lang.String" value="Calcular mcc"/>
@@ -255,6 +268,8 @@
         <AuxValue name="JavaCodeGenerator_AddingCodePost" type="java.lang.String" value="calcularMcc.setVisible(false);"/>
       </AuxValues>
     </Component>
+=======
+>>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
 =======
 >>>>>>> 14e60bec16368f763a7ef179caf2e050390b4fa8
   </SubComponents>
